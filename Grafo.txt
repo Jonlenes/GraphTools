@@ -1,0 +1,29 @@
+GRAFO
+
+RESOLVIDO - Remover includes desnecessarios
+RESOLVIDO - Limpar
+RESOLVIDO - Carrega .txt novamente
+RESOLVIDO - Finalizar
+RESOLVIDO - Mudar titulo quando for melhor caminho
+RESOLVIDO - Remover comentario
+RESOLVIDO - Setar foco no WidgetGrafo
+RESOLVIDO - Validar liberação de memória
+RESOLVIDO - Melhorar msn inicialização
+RESOLVIDO - Testar se tá NULL
+RESOLVIDO - Cada vez que escolher um novo melhor caminho, limpa o atual
+RESOLVIDO - Erro ao calcular o novo melhor caminho se o melhor caminho anterior foi invalido
+RESOLVIDO - Carregar .txt Apos ter plotado um grafo anterior
+RESOLVIDO - Verificar pq o grafo é plotado torto
+RESOLVIDO - Peguntar a criar um novo ou sair se a pessoa quer salvar
+RESOLVIDO - Implementar o Salvar
+RESOLVIDO -Implementar Menu Ajuda
+RESOLVIDO -Implementar SubMenu Sobre
+RESOLVIDO -Implementar SubMenu Ajuda
+RESOLVIDO - Implementar o Abrir
+RESOLVIDO - Modificar Msn Qd carregado pelo Arq
+RESOLVIDO - Arrumar Exportar
+RESOLVIDO -Implementar arquivos recentes
+RESOLVIDO - Verificar scroolBar
+RESOLVIDO - Negrito nas Msn
+RESOLVIDO - Atalhos
+			
